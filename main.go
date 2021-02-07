@@ -10,7 +10,7 @@ import (
 	"strings"
 	"syscall"
 
-	"github.com/AlekSi/gocoverutil/gocoverutil"
+	"github.com/zcfrank1st/gocoverutil/gocoverutil"
 )
 
 var (
