@@ -12,7 +12,7 @@ import (
 	"sort"
 	"strings"
 
-	"golang.org/x/tools/cover"
+	"github.com/golang/tools/cover"
 )
 
 type byLines []cover.ProfileBlock
